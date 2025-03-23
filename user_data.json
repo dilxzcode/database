@@ -1,5 +1,7 @@
-{"6289506368777": { "name": "dilxz", "password": "dilxz" }}
-{"6283160833306": { "name": "dilxz", "password": "dilxz" }}
-{"628978546241": { "name": "Ahmad", "password": "Ahmad123" }}
-{"6285191083675": { "name": "ardi", "password": "ardiganteng" }}
-{"6285811380995": { "name": "fanzz", "fanzz": "11" }}
+{
+  "6289506368777": { "name": "dilxz",  "password": "dilxz" },
+  "6283160833306": { "name": "dilxz",  "password": "dilxz" },
+  "628978546241":  { "name": "Ahmad",  "password": "Ahmad123" },
+  "6285191083675": { "name": "ardi",   "password": "ardiganteng" },
+  "6285811380995": { "name": "fanzz",  "password": "11" }
+}
